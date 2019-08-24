@@ -11,7 +11,7 @@ $ ./donwload_mnist.sh
 Prvni instrukce zmení skript download_minst.sh na spustitelny.
 Druhá instrukce spustí skript, který stáhne dataset ručně psaných číslic MNIST ve formátu csv.
 
-### Závyslosti
+### Závislosti
 
 What things you need to install the software and how to install them
 
