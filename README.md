@@ -1,6 +1,6 @@
 # ZUM semestrální práce
 
-úkolem bylo vypracovat Dopřednou neuronovou síť klasifikující ručně psané číslice z datasetu MNIST
+Úkolem bylo vypracovat dopřednou neuronovou síť klasifikující ručně psané číslice z datasetu MNIST
 
 ## Getting Started
 
