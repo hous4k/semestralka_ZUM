@@ -1,6 +1,6 @@
 # ZUM semestrální práce
 
-Úkolem bylo vypracovat dopřednou neuronovou síť klasifikující ručně psané číslice z datasetu MNIST bez použití knihoven  
+Úkolem bylo vypracovat dopřednou neuronovou síť klasifikující ručně psané číslice z datasetu MNIST bez použití knihoven pro strojové učení jako jsou například keras nebo tenserflow
 
 ## Stažrení datasetu
 
