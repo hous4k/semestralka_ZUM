@@ -21,7 +21,7 @@ instalace python 3 s package managerem aptitude
 apt-get install python3
 ```
 
-instalace modulu s pip3
+instalace modulů s pip3
 ```
 $ pip3 install numpy scipy datetime
 ```
