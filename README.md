@@ -13,6 +13,19 @@ Druhá instrukce spustí skript, který stáhne dataset ručně psaných čísli
 
 ### Závislosti
 
+python 3, numpy, scipy, datetime
+
+instalace python 3 s package managerem aptitude
+
+```
+apt-get install python3
+```
+
+instalace modulu s pip3
+```
+$ pip3 install numpy scipy datetime
+```
+
 What things you need to install the software and how to install them
 
 potrebne knihovny pro spusteni programu nn.py: numpy, scipy, math, datetime
