@@ -26,35 +26,17 @@ pred spuštěním nn.py je třeba stáhnout dataset
 $ chmod +x donwnload_mnist.sh
 $ ./donwload_mnist.sh
 ```
-Prvni instrukce zmení skript download_minst.sh na spustitelny.
+První instrukce změní skript download_minst.sh na spustitelný.
 Druhá instrukce spustí skript, který stáhne dataset ručně psaných číslic MNIST ve formátu csv.
 
-Po  stažení datasetu 
-Astep by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+Po  stažení datasetu je možné spustit nn.py
 ```
-Give the example
+$ chmod +x nn.py
+$ ./nn.py
 ```
+První příkaz změní program nn.py na spustitelný.
+Druhý příkaz onen program spustí.
 
-And repeat
+### Běh programu
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
